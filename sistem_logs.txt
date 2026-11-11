@@ -1,0 +1,9 @@
+2026-11-10 21:24:01,508 - INFO - Cliente registrado: Maria
+2026-11-10 21:24:01,509 - INFO - Cliente registrado: Carlos
+2026-11-10 21:24:01,509 - INFO - Servicio registrado: Sala de reuniones
+2026-11-10 21:24:01,509 - INFO - Servicio registrado: Computador
+2026-11-10 21:24:01,509 - INFO - Servicio registrado: Asesoria empresarial
+2026-11-10 21:24:01,509 - INFO - Reserva creada: 1
+2026-11-10 21:24:01,509 - INFO - Reserva creada: 2
+2026-11-10 21:24:01,509 - INFO - Reserva 1 confirmada.
+2026-11-10 21:24:01,510 - INFO - Reserva 2 confirmada.
