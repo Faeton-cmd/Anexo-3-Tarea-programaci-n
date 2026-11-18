@@ -206,9 +206,9 @@ class AppSoftwareFJ:
         self.tab_servicios = ttk.Frame(notebook)
         self.tab_reservas = ttk.Frame(notebook)
 
-        notebook.add(self.tab_clientes, text="👥 Gestión de Clientes")
-        notebook.add(self.tab_servicios, text="🛠️ Servicios Disponibles")
-        notebook.add(self.tab_reservas, text="📅 Gestión de Reservas")
+        notebook.add(self.tab_clientes, text=" Gestión de Clientes")
+        notebook.add(self.tab_servicios, text=" Servicios Disponibles")
+        notebook.add(self.tab_reservas, text=" Gestión de Reservas")
 
         self.crear_pestana_clientes()
         self.crear_pestana_servicios()
